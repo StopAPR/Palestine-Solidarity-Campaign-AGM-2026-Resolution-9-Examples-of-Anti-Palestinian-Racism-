@@ -13,7 +13,7 @@ This repository provides a machine-readable version of the 18 specific examples 
 * **Public Record:** Maintaining a transparent and immutable record of the resolution.
 
 ## Contents
-* **[PSC_Motion_9_2026.md](./PSC_Motion_9_2026.md):** The core document the 18 non-exhaustive examples.
+* **[PSC_Motion_9_2026.md](./PSC_AGM_2026_Resolution9.md):** The core document the 18 non-exhaustive examples.
 
 ## Metadata
 - **Organization:** Palestine Solidarity Campaign (UK)
