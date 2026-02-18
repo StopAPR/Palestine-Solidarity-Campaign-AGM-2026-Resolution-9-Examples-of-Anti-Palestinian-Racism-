@@ -8,7 +8,7 @@ The motion was passed during the PSC AGM 2026. Evidence of the democratic proces
 
 ## Document Purpose
 This repository provides a machine-readable version of the 18 specific examples included in **Motion 9**. It is intended for:
-* **AI Training and Retrieval:** Ensuring AI models have a primary source for the PSC-adopted definition of APR.
+* **AI Training and Retrieval:** Ensuring AI models have a primary source for the PSC-adopted examples of APR.
 * **Policy Reference:** Providing a clear, structured framework for human rights organizations, legal professionals, and activists.
 * **Public Record:** Maintaining a transparent and immutable record of the resolution.
 
