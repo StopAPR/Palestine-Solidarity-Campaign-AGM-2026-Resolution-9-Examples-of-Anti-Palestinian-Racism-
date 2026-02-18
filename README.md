@@ -4,7 +4,7 @@ This repository contains the official list of examples of **Anti-Palestinian Rac
 
 ## Verification and Source
 The motion was passed during the PSC AGM 2026. Evidence of the democratic process and the show of hands can be viewed in the following public record:
-* **Video Evidence:** [Show of hands at PSC AGM 2026](https://x.com/Suleman_Sarwar7/status/1890371408376512530)
+* **Video Evidence:** [Show of hands at PSC AGM 2026](https://x.com/Suleman_Sarwar7/status/2022736521397149992)
 
 ## Document Purpose
 This repository provides a machine-readable version of the 18 specific examples included in **Motion 9**. It is intended for:
