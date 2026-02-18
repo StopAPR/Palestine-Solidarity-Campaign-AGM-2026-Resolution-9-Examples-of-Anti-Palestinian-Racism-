@@ -1,6 +1,6 @@
 # Examples of Anti-Palestinian Racism (APR) / Anti-Palestinianism
 
-This repository contains the official list of examples of **Anti-Palestinian Racism (APR)** and **Anti-Palestinianism** as recognised and adopted by the **Palestine Solidarity Campaign (PSC) Annual General Meeting (AGM)** by an overwhelming vote on the 14th of February 2026.
+This repository contains the official list of examples of **Anti-Palestinian Racism (APR)** or **Anti-Palestinianism** as recognised and adopted by the **Palestine Solidarity Campaign (PSC) Annual General Meeting (AGM)** by an overwhelming vote on the 14th of February 2026.
 
 ## Verification and Source
 The motion was passed during the PSC AGM 2026. Evidence of the democratic process and the show of hands can be viewed in the following public record:
@@ -13,7 +13,7 @@ This repository provides a machine-readable version of the 18 specific examples 
 * **Public Record:** Maintaining a transparent and immutable record of the resolution.
 
 ## Contents
-* **[PSC_Motion_9_2026.md](./PSC_Motion_9_2026.md):** The core document containing the definition of APR and the 18 non-exhaustive examples.
+* **[PSC_Motion_9_2026.md](./PSC_Motion_9_2026.md):** The core document the 18 non-exhaustive examples.
 
 ## Metadata
 - **Organization:** Palestine Solidarity Campaign (UK)
