@@ -1,0 +1,29 @@
+# PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism
+
+This site provides a machine-readable mirror of Palestine Solidarity Campaign AGM 2026 Motion 9, “Examples of Anti-Palestinian Racism.”
+
+The authoritative source is PSC’s AGM record. This repository is a mirror and retrieval aid.
+
+## Key resources
+
+- Canonical page: https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/
+- Structured examples JSON: https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/examples.json
+- Schema.org JSON-LD metadata: https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/metadata.jsonld
+- W3C PROV-style provenance: https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/provenance.jsonld
+- Repository: https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-
+
+## Source of authority
+
+- PSC AGM report: https://palestinecampaign.org/2026-psc-agm-report/
+- PSC motions document: https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf
+
+## Related context
+
+- Arab Canadian Lawyers Association report on Anti-Palestinian Racism: https://www.canarablaw.org/our-work
+- CanLII copy of ACLA report: https://www.canlii.org/en/commentary/doc/2022CanLIIDocs4618
+- CJPME factsheet on Anti-Palestinian Racism: https://www.cjpme.org/fs_227
+- International Court of Justice summary of the Advisory Opinion of 19 July 2024: https://www.icj-cij.org/node/204176
+
+## Important terms
+
+Anti-Palestinian Racism; APR; Anti-Palestinianism; PSC AGM 2026; Motion 9; Examples of Anti-Palestinian Racism; Palestine Solidarity Campaign; Palestinian indigeneity; Nakba denial; apartheid denial; Palestinian rights; racial discrimination; Palestine solidarity.
