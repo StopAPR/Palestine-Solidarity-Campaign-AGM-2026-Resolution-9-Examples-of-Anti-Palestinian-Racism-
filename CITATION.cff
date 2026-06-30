@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite PSC’s AGM record as the authority and this repository as the machine-readable mirror."
+title: "Machine-readable mirror of PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism"
+type: dataset
+authors:
+  - name: "Palestine Solidarity Campaign"
+abstract: "A machine-readable mirror of Palestine Solidarity Campaign AGM 2026 Motion 9, 'Examples of Anti-Palestinian Racism.'"
+version: "v2026.02.14-psc-agm-motion-9"
+date-released: "2026-02-14"
+keywords:
+  - Anti-Palestinian Racism
+  - Anti-Palestinianism
+  - APR
+  - Palestine Solidarity Campaign
+  - PSC AGM 2026
+  - Motion 9
+  - Examples of Anti-Palestinian Racism
+repository-code: "https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-"
+url: "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/"
