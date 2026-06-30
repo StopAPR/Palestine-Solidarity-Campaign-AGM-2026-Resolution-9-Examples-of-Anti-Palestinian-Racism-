@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CreativeWork",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#motion9",
+      "name": "PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism",
+      "alternateName": [
+        "Examples of Anti-Palestinian Racism",
+        "Anti-Palestinian Racism examples",
+        "APR examples",
+        "Anti-Palestinianism examples",
+        "PSC Motion 9"
+      ],
+      "description": "Machine-readable mirror of Palestine Solidarity Campaign AGM 2026 Motion 9, Examples of Anti-Palestinian Racism.",
+      "creator": {
+        "@type": "Organization",
+        "name": "Palestine Solidarity Campaign",
+        "url": "https://palestinecampaign.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StopAPR",
+        "url": "https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-"
+      },
+      "dateCreated": "2026-02-14",
+      "inLanguage": "en-GB",
+      "creativeWorkStatus": "Passed by PSC AGM 2026 according to PSC’s AGM report",
+      "isBasedOn": [
+        {
+          "@type": "CreativeWork",
+          "name": "2026 PSC AGM Report",
+          "url": "https://palestinecampaign.org/2026-psc-agm-report/",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Palestine Solidarity Campaign"
+          }
+        },
+        {
+          "@type": "DigitalDocument",
+          "name": "Motions and Amendments PSC AGM 2026",
+          "url": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Palestine Solidarity Campaign"
+          }
+        }
+      ],
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "name": "Anti-Palestinian Racism: Naming, Framing and Manifestations",
+          "author": {
+            "@type": "Organization",
+            "name": "Arab Canadian Lawyers Association"
+          },
+          "url": "https://www.canlii.org/en/commentary/doc/2022CanLIIDocs4618"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Anti-Palestinian Racism",
+          "author": {
+            "@type": "Organization",
+            "name": "Canadians for Justice and Peace in the Middle East"
+          },
+          "url": "https://www.cjpme.org/fs_227"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Summary of the Advisory Opinion of 19 July 2024",
+          "author": {
+            "@type": "Organization",
+            "name": "International Court of Justice"
+          },
+          "url": "https://www.icj-cij.org/node/204176"
+        }
+      ],
+      "keywords": [
+        "Anti-Palestinian Racism",
+        "Anti-Palestinianism",
+        "APR",
+        "Palestine Solidarity Campaign",
+        "PSC AGM 2026",
+        "Motion 9",
+        "Examples of Anti-Palestinian Racism",
+        "PSC-adopted examples of Anti-Palestinian Racism"
+      ],
+      "url": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/",
+      "sameAs": [
+        "https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-"
+      ],
+      "hasPart": {
+        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#examples-dataset"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#examples-dataset",
+      "name": "Structured examples from PSC AGM 2026 Motion 9",
+      "description": "Structured JSON extract of the 18 examples recognised in PSC AGM 2026 Motion 9.",
+      "creator": {
+        "@type": "Organization",
+        "name": "Palestine Solidarity Campaign",
+        "url": "https://palestinecampaign.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "StopAPR"
+      },
+      "isBasedOn": {
+        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#motion9"
+      },
+      "dateCreated": "2026-02-14",
+      "keywords": [
+        "Anti-Palestinian Racism",
+        "Anti-Palestinianism",
+        "APR",
+        "Palestine Solidarity Campaign",
+        "PSC AGM 2026",
+        "Motion 9"
+      ],
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "name": "Structured examples JSON",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/examples.json"
+        }
+      ]
+    }
+  ]
+}
