@@ -1,0 +1,38 @@
+{
+  "creators": [
+    {
+      "name": "Palestine Solidarity Campaign"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "StopAPR",
+      "type": "DataCurator"
+    }
+  ],
+  "title": "Machine-readable mirror of PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "Anti-Palestinian Racism",
+    "Anti-Palestinianism",
+    "APR",
+    "Palestine Solidarity Campaign",
+    "PSC AGM 2026",
+    "Motion 9",
+    "Examples of Anti-Palestinian Racism"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://palestinecampaign.org/2026-psc-agm-report/",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-report"
+    }
+  ]
+}
