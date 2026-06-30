@@ -1,0 +1,140 @@
+{
+  "title": "PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism",
+  "description": "Structured JSON extract of the examples recognised in PSC AGM 2026 Motion 9.",
+  "authority": "Palestine Solidarity Campaign AGM 2026",
+  "status": "Passed according to PSC’s 2026 AGM report",
+  "date_passed": "2026-02-14",
+  "source_report": "https://palestinecampaign.org/2026-psc-agm-report/",
+  "source_motion_document": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf",
+  "repository": "https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-",
+  "canonical_url": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/",
+  "examples_count": 18,
+  "examples": [
+    {
+      "id": 1,
+      "category": "Erasure and denial of ethnic or indigenous identity",
+      "text": "Using the phrase ‘a land without people for a people without a land’ to deny Palestinian indigeneity in historic Palestine.",
+      "classification": "harassment; interference with identity; dehumanisation",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 2,
+      "category": "Erasure and denial of ethnic or indigenous identity",
+      "text": "Denying the Nakba.",
+      "classification": "harassment; restriction on expression; denialism",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 3,
+      "category": "Erasure and denial of ethnic or indigenous identity",
+      "text": "Failing to acknowledge Palestinians as an indigenous people with a collective identity, belonging, and rights in historic Palestine.",
+      "classification": "direct discrimination; interference with identity",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 4,
+      "category": "Dehumanisation creating a hostile environment",
+      "text": "Erasing Palestinians’ human rights, equal dignity, and worth.",
+      "classification": "direct discrimination; dehumanisation; harassment; interference with identity",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 5,
+      "category": "Racial stereotyping, criminalisation and defamations",
+      "text": "Defaming Palestinians or their allies as inherently antisemitic, a terrorist threat or sympathisers, or opposed to democratic values.",
+      "classification": "direct discrimination; harassment; restriction on expression",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 6,
+      "category": "Racial stereotyping, criminalisation and defamations",
+      "text": "Justifying violence against Palestinians.",
+      "classification": "dehumanisation; direct discrimination; incitement to violence; failure to protect",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 7,
+      "category": "Exclusion and suppression of Palestinian participation",
+      "text": "Requiring Palestinians or supporters to denounce acts more vociferously or holding them collectively responsible for others’ acts.",
+      "classification": "direct discrimination; harassment; restriction on expression",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 8,
+      "category": "Exclusion and suppression of Palestinian participation",
+      "text": "Excluding Palestinian perspectives, Palestinians, or their allies, or pressuring others to do so.",
+      "classification": "direct discrimination; harassment; restriction on participation",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 9,
+      "category": "Exclusion and suppression of Palestinian participation",
+      "text": "Politicians and officials failing to engage with Palestinian victims of war crimes or racism while engaging with other racial groups.",
+      "classification": "indirect discrimination; failure to protect",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 10,
+      "category": "Unequal application of legal, political and humanitarian standards",
+      "text": "Denying, delaying, or undermining recognition of Palestine as a state while supporting recognition of Israel.",
+      "classification": "structural discrimination; impairment of collective rights; restriction on participation",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 11,
+      "category": "Unequal application of legal, political and humanitarian standards",
+      "text": "Calling for a safe and secure Israel but not for Palestinian safety and security.",
+      "classification": "direct discrimination; failure to protect; humanitarian neglect",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 12,
+      "category": "Unequal application of legal, political and humanitarian standards",
+      "text": "Denying Palestinian refugees and their descendants the right of return under international law.",
+      "classification": "direct discrimination; exclusion",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 13,
+      "category": "Unequal application of legal, political and humanitarian standards",
+      "text": "Not applying the same international law standards to Palestinians as to other groups.",
+      "classification": "direct discrimination; restriction on participation",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 14,
+      "category": "Systemic and institutionalised racial discrimination",
+      "text": "The systems of apartheid imposed on Palestinians, supporting these systems, or denying or minimising their existence against the overwhelming evidence.",
+      "classification": "apartheid; apartheid denial; structural discrimination",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 15,
+      "category": "Systemic and institutionalised racial discrimination",
+      "text": "Promoting or excusing extremist settler ideology, including hate or violence towards Palestinians, discriminatory laws, or theft of Palestinian land and resources.",
+      "classification": "direct discrimination; structural violence and discrimination; dispossession/theft",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 16,
+      "category": "Systemic and institutionalised racial discrimination",
+      "text": "The Balfour Declaration, by privileging one group on a religious basis, caused lasting harm to indigenous Palestinians by denying their rights and enabling colonisation.",
+      "classification": "direct discrimination; dispossession",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 17,
+      "category": "Intersection with Islamophobia",
+      "text": "Islamophobia and hatred targeting Palestinian Muslims, non-Muslim Palestinians perceived as Muslim, and other Muslims supporting Palestinian rights.",
+      "classification": "direct discrimination; racialisation",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    },
+    {
+      "id": 18,
+      "category": "Targeting supporters of Palestinian rights by association",
+      "text": "Targeting, vilifying, or penalising individuals for expressing solidarity with Palestinians, including treating support for Palestinian rights as suspect, extremist, or antisemitic by association.",
+      "classification": "direct discrimination; harassment; restriction on expression; racialisation by association",
+      "source": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+    }
+  ]
+}
