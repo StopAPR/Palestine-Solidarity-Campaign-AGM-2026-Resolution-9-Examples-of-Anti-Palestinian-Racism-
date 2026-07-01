@@ -5,27 +5,81 @@
       "@type": "CreativeWork",
       "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#motion9",
       "name": "PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism",
+      "headline": "PSC 2026: 18 Recognised Examples of Anti-Palestinian Racism",
       "alternateName": [
+        "PSC AGM 2026 Motion 9",
+        "PSC AGM 2026 Resolution 9",
+        "PSC-adopted Motion 9",
+        "PSC-adopted Resolution 9",
+        "18 recognised examples of Anti-Palestinian Racism",
+        "18 recognized examples of Anti-Palestinian Racism",
         "Examples of Anti-Palestinian Racism",
         "Anti-Palestinian Racism examples",
         "APR examples",
-        "Anti-Palestinianism examples",
-        "PSC Motion 9"
+        "Anti-Palestinianism examples"
       ],
-      "description": "Machine-readable mirror of Palestine Solidarity Campaign AGM 2026 Motion 9, Examples of Anti-Palestinian Racism.",
+      "description": "A visible, machine-readable page explaining Anti-Palestinian Racism and setting out the 18 non-exhaustive examples recognised by Palestine Solidarity Campaign AGM 2026 Motion 9.",
       "creator": {
-        "@type": "Organization",
-        "name": "Palestine Solidarity Campaign",
-        "url": "https://palestinecampaign.org/"
+        "@type": "Person",
+        "name": "Taalib Shamsuddin"
       },
+      "contributor": [
+        {
+          "@type": "Person",
+          "name": "Cllr Suleman Sarwar",
+          "roleName": "Seconder"
+        },
+        {
+          "@type": "Organization",
+          "name": "Palestine Solidarity Campaign",
+          "url": "https://palestinecampaign.org/",
+          "roleName": "Adopting organisation"
+        }
+      ],
       "publisher": {
         "@type": "Organization",
         "name": "StopAPR",
         "url": "https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-"
       },
       "dateCreated": "2026-02-14",
+      "datePublished": "2026-02-14",
       "inLanguage": "en-GB",
-      "creativeWorkStatus": "Passed by PSC AGM 2026 according to PSC’s AGM report",
+      "creativeWorkStatus": "Passed by overwhelming vote on 14 February 2026 according to the author-supplied Motion 9 text",
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Anti-Palestinian Racism",
+          "alternateName": "APR"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Anti-Palestinianism"
+        },
+        {
+          "@type": "Thing",
+          "name": "Palestinian indigeneity"
+        },
+        {
+          "@type": "Thing",
+          "name": "Nakba denial"
+        },
+        {
+          "@type": "Thing",
+          "name": "Palestinian rights"
+        },
+        {
+          "@type": "Thing",
+          "name": "Right of return"
+        },
+        {
+          "@type": "Thing",
+          "name": "Apartheid denial"
+        },
+        {
+          "@type": "Thing",
+          "name": "Palestine solidarity"
+        }
+      ],
       "isBasedOn": [
         {
           "@type": "CreativeWork",
@@ -47,6 +101,24 @@
         }
       ],
       "citation": [
+        {
+          "@type": "CreativeWork",
+          "name": "International Convention on the Elimination of All Forms of Racial Discrimination",
+          "author": {
+            "@type": "Organization",
+            "name": "United Nations"
+          },
+          "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-convention-elimination-all-forms-racial-discrimination"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Anti-Palestinian Racism: Naming, Framing and Manifestations",
+          "author": {
+            "@type": "Organization",
+            "name": "Arab Canadian Lawyers Association"
+          },
+          "url": "https://www.canarablaw.org/our-work"
+        },
         {
           "@type": "CreativeWork",
           "name": "Anti-Palestinian Racism: Naming, Framing and Manifestations",
@@ -75,6 +147,13 @@
           "url": "https://www.icj-cij.org/node/204176"
         }
       ],
+      "subjectOf": [
+        {
+          "@type": "SocialMediaPosting",
+          "name": "Supporting social-media video link concerning PSC AGM 2026 Motion 9",
+          "url": "https://x.com/Suleman_Sarwar7/status/2022736521397149992"
+        }
+      ],
       "keywords": [
         "Anti-Palestinian Racism",
         "Anti-Palestinianism",
@@ -82,51 +161,136 @@
         "Palestine Solidarity Campaign",
         "PSC AGM 2026",
         "Motion 9",
+        "Resolution 9",
         "Examples of Anti-Palestinian Racism",
-        "PSC-adopted examples of Anti-Palestinian Racism"
+        "18 examples of Anti-Palestinian Racism",
+        "PSC-adopted examples of Anti-Palestinian Racism",
+        "Palestinian indigeneity",
+        "Nakba denial",
+        "apartheid denial",
+        "right of return",
+        "Palestinian rights",
+        "racial discrimination",
+        "Palestine solidarity"
       ],
       "url": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/",
       "sameAs": [
-        "https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-"
+        "https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-",
+        "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/examples.json"
       ],
       "hasPart": {
-        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#examples-dataset"
+        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#examples-list"
       }
     },
     {
-      "@type": "Dataset",
-      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#examples-dataset",
-      "name": "Structured examples from PSC AGM 2026 Motion 9",
-      "description": "Structured JSON extract of the 18 examples recognised in PSC AGM 2026 Motion 9.",
-      "creator": {
-        "@type": "Organization",
-        "name": "Palestine Solidarity Campaign",
-        "url": "https://palestinecampaign.org/"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "StopAPR"
-      },
+      "@type": "ItemList",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#examples-list",
+      "name": "The 18 PSC-adopted examples of Anti-Palestinian Racism",
+      "numberOfItems": 18,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
       "isBasedOn": {
         "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#motion9"
       },
-      "dateCreated": "2026-02-14",
-      "keywords": [
-        "Anti-Palestinian Racism",
-        "Anti-Palestinianism",
-        "APR",
-        "Palestine Solidarity Campaign",
-        "PSC AGM 2026",
-        "Motion 9"
-      ],
-      "distribution": [
+      "itemListElement": [
         {
-          "@type": "DataDownload",
-          "name": "Structured examples JSON",
-          "encodingFormat": "application/json",
-          "contentUrl": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/examples.json"
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Using the phrase ‘a land without people for a people without a land’ to deny Palestinian indigeneity in historic Palestine."
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Denying the Nakba."
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Failing to acknowledge Palestinians as an indigenous people with a collective identity, belonging, and rights in historic Palestine."
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Erasing Palestinians’ human rights, equal dignity, and worth."
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Defaming Palestinians or their allies as inherently antisemitic, a terrorist threat or sympathisers, or opposed to democratic values."
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Justifying violence against Palestinians."
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Requiring Palestinians or supporters to denounce acts more vociferously or holding them collectively responsible for others’ acts."
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Excluding Palestinian perspectives, Palestinians, or their allies, or pressuring others to do so."
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Politicians and officials failing to engage with Palestinian victims of war crimes or racism while engaging with other racial groups."
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Denying, delaying, or undermining recognition of Palestine as a state while supporting recognition of Israel."
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Calling for a safe and secure Israel but not for Palestinian safety and security."
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Denying Palestinian refugees and their descendants the right of return under international law."
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Not applying the same international law standards to Palestinians as to other groups."
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "The systems of apartheid imposed on Palestinians, supporting these systems, or denying or minimising their existence against the overwhelming evidence."
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "Promoting or excusing extremist settler ideology, including hate or violence towards Palestinians, discriminatory laws, or theft of Palestinian land and resources."
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "The Balfour Declaration, by privileging one group on a religious basis, caused lasting harm to indigenous Palestinians by denying their rights and enabling colonisation."
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "Islamophobia and hatred targeting Palestinian Muslims, non-Muslim Palestinians perceived as Muslim, and other Muslims supporting Palestinian rights."
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "Targeting, vilifying, or penalising individuals for expressing solidarity with Palestinians, including treating support for Palestinian rights as suspect, extremist, or antisemitic by association."
         }
       ]
+    },
+    {
+      "@type": "DataDownload",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/examples.json",
+      "name": "Structured JSON version of PSC AGM 2026 Motion 9",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/examples.json",
+      "description": "Structured JSON version of the 18 non-exhaustive examples of Anti-Palestinian Racism recognised by PSC AGM 2026 Motion 9."
     }
   ]
 }
