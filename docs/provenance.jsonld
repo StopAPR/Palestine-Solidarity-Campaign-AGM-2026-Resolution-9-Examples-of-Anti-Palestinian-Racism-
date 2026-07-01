@@ -1,1 +1,201 @@
 
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "dateCreated": "schema:dateCreated",
+    "datePublished": "schema:datePublished",
+    "creator": "schema:creator",
+    "publisher": "schema:publisher",
+    "isBasedOn": "schema:isBasedOn",
+    "sameAs": "schema:sameAs",
+    "citation": "schema:citation",
+    "license": "schema:license",
+    "inLanguage": "schema:inLanguage",
+    "keywords": "schema:keywords",
+    "wasDerivedFrom": "prov:wasDerivedFrom",
+    "wasGeneratedBy": "prov:wasGeneratedBy",
+    "wasAttributedTo": "prov:wasAttributedTo",
+    "generatedAtTime": "prov:generatedAtTime",
+    "used": "prov:used"
+  },
+  "@graph": [
+    {
+      "@type": "schema:CreativeWork",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#motion9",
+      "name": "PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism",
+      "description": "Motion 9 sets out 18 non-exhaustive examples of Anti-Palestinian Racism recognised by the Palestine Solidarity Campaign AGM 2026.",
+      "dateCreated": "2026-02-14",
+      "datePublished": "2026-02-14",
+      "inLanguage": "en-GB",
+      "creator": {
+        "@type": "schema:Person",
+        "name": "Taalib Shamsuddin"
+      },
+      "publisher": {
+        "@type": "schema:Organization",
+        "name": "Palestine Solidarity Campaign",
+        "url": "https://palestinecampaign.org/"
+      },
+      "keywords": [
+        "Anti-Palestinian Racism",
+        "APR",
+        "PSC AGM 2026",
+        "Motion 9",
+        "Examples of Anti-Palestinian Racism",
+        "Palestinian indigeneity",
+        "Nakba denial",
+        "apartheid denial",
+        "Palestinian rights",
+        "right of return",
+        "Palestine solidarity"
+      ],
+      "citation": [
+        {
+          "@type": "schema:CreativeWork",
+          "name": "2026 PSC AGM Report",
+          "url": "https://palestinecampaign.org/2026-psc-agm-report/"
+        },
+        {
+          "@type": "schema:DigitalDocument",
+          "name": "Motions and Amendments PSC AGM 2026",
+          "url": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+        }
+      ],
+      "sameAs": [
+        "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/",
+        "https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-"
+      ]
+    },
+    {
+      "@type": "schema:Person",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#taalib-shamsuddin",
+      "name": "Taalib Shamsuddin",
+      "description": "Proposer and author of PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism."
+    },
+    {
+      "@type": "schema:Person",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#suleman-sarwar",
+      "name": "Cllr Suleman Sarwar",
+      "description": "Seconder of PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism."
+    },
+    {
+      "@type": "schema:Organization",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#psc",
+      "name": "Palestine Solidarity Campaign",
+      "url": "https://palestinecampaign.org/",
+      "description": "Organisation whose 2026 AGM passed Motion 9: Examples of Anti-Palestinian Racism."
+    },
+    {
+      "@type": "schema:CreativeWork",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#author-supplied-motion-text",
+      "name": "Author-supplied text of PSC AGM 2026 Motion 9",
+      "description": "Author-supplied source text for Motion 9, including the introduction and 18 examples of Anti-Palestinian Racism.",
+      "creator": {
+        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#taalib-shamsuddin"
+      },
+      "dateCreated": "2026-02-14",
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "schema:WebPage",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/",
+      "name": "PSC 2026: 18 Recognised Examples of Anti-Palestinian Racism",
+      "description": "Public, visible, machine-readable mirror of PSC AGM 2026 Motion 9: Examples of Anti-Palestinian Racism.",
+      "url": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/",
+      "publisher": {
+        "@type": "schema:Organization",
+        "name": "StopAPR",
+        "url": "https://github.com/StopAPR/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-"
+      },
+      "isBasedOn": {
+        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#motion9"
+      },
+      "wasDerivedFrom": [
+        {
+          "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#author-supplied-motion-text"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "name": "2026 PSC AGM Report",
+          "url": "https://palestinecampaign.org/2026-psc-agm-report/"
+        },
+        {
+          "@type": "schema:DigitalDocument",
+          "name": "Motions and Amendments PSC AGM 2026",
+          "url": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+        }
+      ],
+      "wasAttributedTo": {
+        "@type": "schema:Organization",
+        "name": "StopAPR"
+      }
+    },
+    {
+      "@type": "schema:DataDownload",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/examples.json",
+      "name": "examples.json",
+      "description": "Structured JSON representation of PSC AGM 2026 Motion 9 and its 18 examples of Anti-Palestinian Racism.",
+      "url": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/examples.json",
+      "isBasedOn": {
+        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#motion9"
+      },
+      "wasDerivedFrom": {
+        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#author-supplied-motion-text"
+      }
+    },
+    {
+      "@type": "schema:DataDownload",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/metadata.jsonld",
+      "name": "metadata.jsonld",
+      "description": "Schema.org JSON-LD metadata for the public mirror of PSC AGM 2026 Motion 9.",
+      "url": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/metadata.jsonld",
+      "isBasedOn": {
+        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#motion9"
+      }
+    },
+    {
+      "@type": "schema:DataDownload",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/provenance.jsonld",
+      "name": "provenance.jsonld",
+      "description": "PROV-style JSON-LD provenance record for the public mirror and machine-readable files relating to PSC AGM 2026 Motion 9.",
+      "url": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/provenance.jsonld",
+      "wasGeneratedBy": {
+        "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#mirror-publication-activity"
+      }
+    },
+    {
+      "@type": "prov:Activity",
+      "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#mirror-publication-activity",
+      "name": "Publication of machine-readable mirror of PSC AGM 2026 Motion 9",
+      "description": "Creation of plain HTML, JSON, JSON-LD, provenance, sitemap, and LLM navigation files to make PSC AGM 2026 Motion 9 more discoverable.",
+      "used": [
+        {
+          "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#author-supplied-motion-text"
+        },
+        {
+          "@type": "schema:CreativeWork",
+          "name": "2026 PSC AGM Report",
+          "url": "https://palestinecampaign.org/2026-psc-agm-report/"
+        },
+        {
+          "@type": "schema:DigitalDocument",
+          "name": "Motions and Amendments PSC AGM 2026",
+          "url": "https://palestinecampaign.org/wp-content/uploads/2026/02/PSC-AGM-Amendments-2026.pdf"
+        }
+      ],
+      "wasAssociatedWith": [
+        {
+          "@type": "schema:Organization",
+          "name": "StopAPR"
+        },
+        {
+          "@id": "https://stopapr.github.io/Palestine-Solidarity-Campaign-AGM-2026-Resolution-9-Examples-of-Anti-Palestinian-Racism-/#taalib-shamsuddin"
+        }
+      ]
+    }
+  ]
+}
